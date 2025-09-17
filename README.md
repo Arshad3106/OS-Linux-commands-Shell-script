@@ -1086,7 +1086,7 @@ else
 	echo "Number is NOT palindrome"
 fi
 ```
-## OUTPUT 
+## OUTPUT
 
 
 # RESULT:
